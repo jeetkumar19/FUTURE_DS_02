@@ -3,7 +3,8 @@
 📊 Customer Churn & Retention Analysis Dashboard (Power BI)
 
 🔗 Live Dashboard:
-https://bit.ly/ChurnRetentionDashboard
+https://app.powerbi.com/view?r=eyJrIjoiMDFkNzE4ZjctNjEwYi00MjAwLWFmMzEtZmViYzk1NjMxZTM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
 
 🔗 GitHub Repository:
