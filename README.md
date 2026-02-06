@@ -1,116 +1,307 @@
 # FUTURE_DS_02# 
 
-# 📊 Customer Churn & Retention Analysis Dashboard (Power BI)
+📊 Customer Churn & Retention Analysis Dashboard (Power BI)
 
-## 📌 Project Overview
-This project focuses on analyzing **customer churn, retention health, and revenue performance** for a SaaS-based business using **Power BI**.  
-The dashboard is designed to help stakeholders quickly understand **business health**, identify **churn drivers**, and make **data-driven retention decisions**.
+🔗 Live Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiMDFkNzE4ZjctNjEwYi00MjAwLWFmMzEtZmViYzk1NjMxZTM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-The solution emphasizes **executive-level KPIs**, clean visual storytelling, and practical business insights rather than just reporting numbers.
+🔗 GitHub Repository:
+https://github.com/jeetkumar19/FUTURE_DS_02
 
----
+🔗 LinkedIn Profile:
+https://www.linkedin.com/in/vishwajeetvishwakarma/
 
-## 🎯 Business Objectives
-- Measure overall **customer churn rate**
-- Track **active recurring revenue (MMR)**
-- Monitor **customer satisfaction (CSAT)**
-- Identify **industries and reasons contributing most to churn**
-- Enable filtering by **industry, plan tier, and time period**
+📌 Project Overview
 
----
+This project analyzes customer churn, retention health, and recurring revenue for a SaaS business using Power BI.
+The dashboard is built for decision-makers, focusing on executive KPIs, churn drivers, and revenue stability—not just reporting numbers, but explaining why churn happens and where to act.
 
-## 📈 Key KPIs
-The dashboard highlights four core KPIs for instant business clarity:
+🎯 Business Objectives
 
-- **Total Active MMR** – Current recurring revenue from active customers  
-- **Churn Rate (%)** – Percentage of customers lost in the selected period  
-- **Total Accounts** – Number of active customer accounts  
-- **Average CSAT Score** – Overall customer satisfaction indicator  
+Measure overall customer churn rate
 
-These KPIs provide a quick snapshot of **financial stability, customer retention, and customer experience**.
+Track Monthly Recurring Revenue (MRR)
 
----
+Monitor customer satisfaction (CSAT)
 
-## 📊 Dashboard Components
+Identify industries and reasons driving churn
 
-### 1️⃣ KPI Summary Section
-- High-visibility KPI cards
-- Designed for quick executive review
-- Consistent formatting and color usage
+Enable analysis by industry, plan tier, and time period
 
-### 2️⃣ Churn Rate by Industry
-- Bar chart showing churn distribution across industries
-- Identifies **high-risk sectors**
-- Enables targeted retention strategies
+📈 Key KPIs
 
-### 3️⃣ Total Active MMR Trend
-- Line/area chart showing revenue trends over time
-- Highlights growth, stability, or revenue decline
-- Supports revenue and retention analysis
+The dashboard surfaces four executive-level KPIs for instant clarity:
 
-### 4️⃣ Churn Reasons Analysis
-- Treemap visualization of churned customers by reason
-- Identifies key churn drivers such as pricing, features, support, and competition
-- Helps prioritize product and service improvements
+Total Active MRR – Recurring revenue from active customers
 
-### 5️⃣ Account-Level Insights
-- Table displaying account-level details:
-  - Industry
-  - Active MMR
-  - Average CSAT score
-- Enables deeper operational analysis
+Churn Rate (%) – Customers lost during the selected period
 
-### 6️⃣ Interactive Filters
-- Industry
-- Plan Tier
-- Date Range  
+Total Accounts – Active customer base size
 
-Allows users to dynamically explore trends and patterns.
+Average CSAT Score – Overall customer satisfaction indicator
 
----
+These KPIs quickly reflect financial health, retention risk, and customer experience.
 
-## 🛠 Tools & Technologies Used
-- **Power BI Desktop**
-- **DAX** for KPI calculations
-- **Data Modeling (Fact & Dimension Tables)**
-- **Custom visual formatting**
+📊 Dashboard Components
+1️⃣ KPI Summary Section
 
----
+High-visibility KPI cards
 
-## 🧠 Key Insights (Sample)
-- Certain industries show higher churn rates, indicating sector-specific retention risks.
-- Revenue growth does not always align with customer count, highlighting possible revenue concentration.
-- Pricing and feature-related issues contribute significantly to churn.
-- Lower CSAT scores often correlate with higher churn risk.
+Executive-first layout
 
----
+Consistent color and formatting for fast interpretation
 
-## 🎨 Design Principles Followed
-- Executive-first KPI layout
-- Minimal clutter and consistent color theme
-- Clear visual hierarchy
-- Business-focused storytelling
+2️⃣ Churn Rate by Industry
 
----
+Bar chart showing churn distribution by industry
 
-## 🚀 How to Use
-1. Open the `.pbix` file in **Power BI Desktop**
-2. Use slicers to filter by industry, plan tier, or date
-3. Review KPIs for overall business health
-4. Analyze trends and churn drivers to support decision-making
+Highlights high-risk sectors
 
----
+Supports targeted retention strategies
 
-## 📌 Conclusion
-This dashboard demonstrates the ability to:
-- Translate data into **actionable business insights**
-- Design **professional, executive-ready dashboards**
-- Apply analytical thinking to real-world SaaS metrics
+3️⃣ Total Active MRR Trend
 
-Suitable for **internship submissions, portfolio projects, and entry-level analytics roles**.
+Line/area chart tracking revenue over time
 
----
+Identifies growth, stagnation, or decline
 
-## 👤 Author
-**Vishwajeet vishwakarma**  
+Connects revenue trends with churn behavior
+
+4️⃣ Churn Reasons Analysis
+
+Treemap of churned customers by reason
+
+Key drivers include pricing, features, support, and competition
+
+Helps prioritize product and service improvements
+
+5️⃣ Account-Level Insights
+
+Detailed table with:
+
+Industry
+
+Active MRR
+
+Average CSAT score
+
+Enables deeper operational and customer-level analysis
+
+6️⃣ Interactive Filters
+
+Industry
+
+Plan Tier
+
+Date Range
+
+Allows users to dynamically explore patterns and trends
+
+🛠 Tools & Technologies
+
+Power BI Desktop
+
+DAX for KPI calculations
+
+Star schema data modeling (fact & dimension tables)
+
+Custom visual formatting and layout design
+
+🧠 Key Insights
+
+Certain industries consistently show higher churn risk
+
+Revenue growth does not always align with customer count, indicating revenue concentration
+
+Pricing and feature gaps are major churn drivers
+
+Lower CSAT scores strongly correlate with churn
+
+🎨 Design Principles
+
+Executive-focused KPI placement
+
+Minimal clutter with consistent color theme
+
+Clear visual hierarchy
+
+Business-first storytelling over raw metrics
+
+🚀 How to Use
+
+Open the .pbix file in Power BI Desktop
+
+Apply slicers for industry, plan tier, or date
+
+Review KPIs for overall business health
+
+Drill into churn drivers to support retention decisions
+
+📌 Conclusion
+
+This project demonstrates the ability to:
+
+Translate raw data into actionable business insights
+
+Build professional, executive-ready dashboards
+
+Apply analytical thinking to real-world SaaS metrics
+
+Ideal for internship submissions, portfolio reviews, and entry-level data analytics roles.
+
+👤 Author
+
+Vishwajeet Vishwakarma
+Data Analytics | Power BI | SQL | Business Intelligence📊 Customer Churn & Retention Analysis Dashboard (Power BI)
+
+🔗 Live Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiMDFkNzE4ZjctNjEwYi00MjAwLWFmMzEtZmViYzk1NjMxZTM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+🔗 GitHub Repository:
+https://github.com/jeetkumar19/FUTURE_DS_02
+
+🔗 LinkedIn Profile:
+https://www.linkedin.com/in/vishwajeetvishwakarma/
+
+📌 Project Overview
+
+This project analyzes customer churn, retention health, and recurring revenue for a SaaS business using Power BI.
+The dashboard is built for decision-makers, focusing on executive KPIs, churn drivers, and revenue stability—not just reporting numbers, but explaining why churn happens and where to act.
+
+🎯 Business Objectives
+
+Measure overall customer churn rate
+
+Track Monthly Recurring Revenue (MRR)
+
+Monitor customer satisfaction (CSAT)
+
+Identify industries and reasons driving churn
+
+Enable analysis by industry, plan tier, and time period
+
+📈 Key KPIs
+
+The dashboard surfaces four executive-level KPIs for instant clarity:
+
+Total Active MRR – Recurring revenue from active customers
+
+Churn Rate (%) – Customers lost during the selected period
+
+Total Accounts – Active customer base size
+
+Average CSAT Score – Overall customer satisfaction indicator
+
+These KPIs quickly reflect financial health, retention risk, and customer experience.
+
+📊 Dashboard Components
+1️⃣ KPI Summary Section
+
+High-visibility KPI cards
+
+Executive-first layout
+
+Consistent color and formatting for fast interpretation
+
+2️⃣ Churn Rate by Industry
+
+Bar chart showing churn distribution by industry
+
+Highlights high-risk sectors
+
+Supports targeted retention strategies
+
+3️⃣ Total Active MRR Trend
+
+Line/area chart tracking revenue over time
+
+Identifies growth, stagnation, or decline
+
+Connects revenue trends with churn behavior
+
+4️⃣ Churn Reasons Analysis
+
+Treemap of churned customers by reason
+
+Key drivers include pricing, features, support, and competition
+
+Helps prioritize product and service improvements
+
+5️⃣ Account-Level Insights
+
+Detailed table with:
+
+Industry
+
+Active MRR
+
+Average CSAT score
+
+Enables deeper operational and customer-level analysis
+
+6️⃣ Interactive Filters
+
+Industry
+
+Plan Tier
+
+Date Range
+
+Allows users to dynamically explore patterns and trends
+
+🛠 Tools & Technologies
+
+Power BI Desktop
+
+DAX for KPI calculations
+
+Star schema data modeling (fact & dimension tables)
+
+Custom visual formatting and layout design
+
+🧠 Key Insights
+
+Certain industries consistently show higher churn risk
+
+Revenue growth does not always align with customer count, indicating revenue concentration
+
+Pricing and feature gaps are major churn drivers
+
+Lower CSAT scores strongly correlate with churn
+
+🎨 Design Principles
+
+Executive-focused KPI placement
+
+Minimal clutter with consistent color theme
+
+Clear visual hierarchy
+
+Business-first storytelling over raw metrics
+
+🚀 How to Use
+
+Open the .pbix file in Power BI Desktop
+
+Apply slicers for industry, plan tier, or date
+
+Review KPIs for overall business health
+
+Drill into churn drivers to support retention decisions
+
+📌 Conclusion
+
+This project demonstrates the ability to:
+
+Translate raw data into actionable business insights
+
+Build professional, executive-ready dashboards
+
+Apply analytical thinking to real-world SaaS metrics
+
+Ideal for internship submissions, portfolio reviews, and entry-level data analytics roles.
+
+👤 Author
+
+Vishwajeet Vishwakarma
 Data Analytics | Power BI | SQL | Business Intelligence
